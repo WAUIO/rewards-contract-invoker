@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a reward contract invoker.
+This project is a reward contract invoker. With thanks to GrantShares for providing us with a grant to develop web3 features for Voxiberate.
 
 ## Installation
 
